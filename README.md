@@ -19,4 +19,4 @@ This repository contains the next directories:
          
 </ul>
 <br>
-Most information please send an email to: solarte7@gmail.com
+Most information please send an email to: oswaldo.solartep@alumnos.upm.es
