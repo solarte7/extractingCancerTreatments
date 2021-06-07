@@ -5,10 +5,10 @@ This model perform Named Entity Recognition (NER) using an annotated corpus from
 
 Next figure shows an example of  annotated sentences with cancer treatments:
 <center> <img src="img/treatments.png" width="700" height="400"> </center>
-<br> <br>
+<br> 
 
 The proposed approach was implemented using Python 3.7, TensorFlow and Keras using the following hyper-parameters configuration: learning rate of 0.001, dropout set as 0.5, the number of epochs is set to  50, the BiLSTM hidden size is 300, and the batch size is 512.
-<br> <br>
+<br>
 <H3>Repository Files</H3>
 <br>
 This repository contains the next directories:
