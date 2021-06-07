@@ -12,7 +12,7 @@ Next figure shows an example of  annotated sentences with cancer treatments:
 This repository contains the next directories:
 
 <ul>
-    <li><strong><BILSTM:></strong>  This directory contains an implementation of the  BiLSTM-CRF model. This code is use to train the model.</li> 
-    <li><strong><Trained>:</strong> This directory contains a trained BILSTM-CRF (saved) model used to an instance to perform NER. </li>    
+    <li><strong> 00-BiLSTM-CRF.ipynb:</strong>   This directory contains an implementation of the  BiLSTM-CRF model. This code is use to train the model.</li> 
+    <li><strong> 00-BiLSTM-CRF.ipynb:</strong> This directory contains a trained BILSTM-CRF (saved) model used to an instance to perform NER. </li>    
          
   </ul>
