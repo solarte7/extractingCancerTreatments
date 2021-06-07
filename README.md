@@ -14,7 +14,9 @@ The proposed approach was implemented using Python 3.7, TensorFlow and Keras usi
 This repository contains the next directories:
 
 <ul>
-    <li><strong>BILSTM:</strong>   This directory contains an implementation of the  BiLSTM-CRF model. This code is use to train the model.</li> 
-    <li><strong>Trained:</strong> This directory contains a trained BILSTM-CRF (saved) model used to an instance to perform NER. </li>    
+    <li><strong>BILSTM:</strong>   This directory contains an implementation of the  BiLSTM-CRF model. This code is use to train the model.  </li> 
+    <li><strong>Trained:</strong> This directory contains a trained BILSTM-CRF (saved) model used to an instance to perform NER. To test the model you must open and run the file load_BILSTM.ipybn. This code requires the next libraries to be installed: Python 3.7, TensorFlow, and Keras </li>    
          
-  </ul>
+</ul>
+<br>
+Most information please send an email to: solarte7@gmail.com
